@@ -2,7 +2,7 @@ enabled: true
 id: "brands"
 
 content:
-  title: "dddddddddddddddddddddddddd "
+  title: "Our Sponsors "
   items:
     - "images/brands-samsumg.png"
     - "images/brands-google.png"

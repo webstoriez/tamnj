@@ -2,19 +2,19 @@ baseURL: "https://webstoriez.github.io/tamnj/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "தமிழர்கள் மன்றம் குழுவினர்"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "தமிழர்கள் மன்றம் குழுவினர்"
+  description: "Thamizhargal Mandram NJ - A Non-Profit 501(C)(3) Tax Exempt Organization"
   images: 
-    - "images/hero-image.png"
+    - "images/logo.png"
 
-  logo: "arrow-up.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -28,14 +28,13 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "155 Polifly Road, Suite 205, Hackensack NJ 07601"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "tamnjorg@gmail.com"
+    - "+1 (973)-963-7488"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 tamnj.org All Rights Reserved"
 
 menus:
   main:
@@ -74,18 +73,22 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "Membership"
+      url: "/Membership"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
+    - name: "About"
+      url: "/About"
       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
+    - name: "Events"
+      url: "/Events"
       weight: 4
-
+    
+    - name: "Sponsor"
+      url: "/Sponsor"
+      weight: 4
+    
     - name: "Blog"
       url: "/blog"
       weight: 5
