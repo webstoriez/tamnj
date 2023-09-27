@@ -25,7 +25,7 @@ jobs:
            extended: true
            
       - name: Hugo Build
-        run: hugo --baseURL https://fitnessvibe.in/
+        run: hugo --baseURL https://webstoriez.github.io/tamnj/
            
       - name: GitHub Pages Deploy
         uses: crazy-max/ghaction-github-pages@v2.5.0
