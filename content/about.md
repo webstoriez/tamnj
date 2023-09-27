@@ -1,25 +1,11 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "About - Thamizhargal Mandram"
+description = "A Non-Profit 501(C)(3) Tax Exempt Organization"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["about-us", "about-Thamizhargal Mandram NJ", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+The purpose for which the corporation is created is for charitable grounds within the section 501(c)(3) of the IRS. Furthermore to collect and raise money for charitable purposes, to also expend for events within the organization and to either directly or through contributions to other agencies, organizations and institutions for similar purposes. Importantly to continue to develop and preserve the Tamil community in New Jersey, any money received as a gift will be pointed towards the directions of charities.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+The purpose of TAMNJ is to encourage and bring forth people of origin speaking Tamil language or even those who are interested in the Tamil culture to come together on equal grounds and bring awareness to this culture and promote it publicly. This will be effectively done through equal collaboration among the Tamil community. 3. Important to note that TAMNJ will have no political or religious affiliations as we are open to anyone and anything. There shall be no discrimination whatsoever against anyone due to their religious beliefs,ethnicity, and sexuality. TAMNJ is established as non-profitable and charitable as shown under section 501(C). 

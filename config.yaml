@@ -43,25 +43,29 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "Membership"
+      url: "/Membership"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
+    - name: "About"
+      url: "/About"
       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
+    - name: "Events"
+      url: "/Events"
       weight: 4
-
+    
+    - name: "Sponsor"
+      url: "/Sponsor"
+      weight: 4
+    
     - name: "Blog"
       url: "/blog"
       weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Become a Member"
+      url: "/Join"
       weight: 5
       pre: "btn btn-primary text-light"
 
