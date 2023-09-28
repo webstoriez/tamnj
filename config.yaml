@@ -93,7 +93,7 @@ menus:
       weight: 5
 
     - name: "Bylaws"
-      url: "/Bylaws"
+      url: "/post/bylaws/"
       weight: 6
 
 taxonomies:

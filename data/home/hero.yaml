@@ -11,5 +11,5 @@ content:
 
   buttonSecondary:
     label: "About Event"
-    url: ""
+    url: "events"
 
