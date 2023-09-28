@@ -5,23 +5,23 @@ content:
   title: "Upcoming Events"
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/hero-image.png"
+      title: "விஜய் டிவி சூப்பர் சிங்கர் போட்டியாளர்களுடன் இன்னிசை இரவு"
+      text: "Music night with Vijay TV Super Singer contestants on November 11th 2023 @ 3 PM. "
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Buy Tickets Starting $20"
+        url: "https://events.sulekha.com/diwali-innisai-iruvu-tamil-event-thamizharghal-mandram-nj-inc-501c3_event-in_paramus-nj_370717"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/newyear2023.png"
+      title: "Tamil New Year 2023"
+      text: "Tamil new year event of 2023"
       button:
         label: "Learn more"
-        url: "#"
+        url: "./post/tamil_new_year_2023/"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/IMG-20230927-WA0018.jpg"
+      title: "சித்திரை 2023 நிகழ்வு நினைவுகள்"
+      text: "சித்திரை 2023 நிகழ்வு நினைவுகள்"
       button:
         label: "Learn more"
-        url: "#"
+        url: "./post/chitrai_2023/"

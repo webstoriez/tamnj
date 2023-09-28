@@ -6,20 +6,27 @@ aliases = ["membership", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Being a TAMNJ member provides you a number of benefits:
 
-Hugo makes use of a variety of open source projects including:
+* TAMNJ is entering in to its 50th year and servicing our Tamil community in & around New England.
+* TAMNJ has approximately 1800 registrations every year which connects approximately 5000 family members together.
+* TAMNJ has conducted various annual programs and primarily Pongal vizha, Chithirai vizha, Picnic and Kulanthaigal vizha and various other cultural events.
+* TAMNJ provides various discounts to their members on those events that includes participating stage events such as Pattimandram, Culturals, Competitions like Vocal, Dance, Drama, Music, Drawing, Science BEE, Math BEE etc.,
+* TAMNJ beyond regular event participating in various social causes.
+* Discounted rates for entrance and participation all Events organized by TAMNJ.
+* Free participation for kids in select events to promote the Tamil language.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+TAMNJ offers the following types of membership:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* Annual Family - $40 for Year 2023
+* Annual Single - $30 for Year 2023
+* Annual Special Category (Divorced or Widow) - $25 for Year 2023
+* Annual Senior (Both husband & wife are 60 years & above) - $15 for Year 2023
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Important Note:
+* For 2022 membership is valid until Dec 31st, 2022.
+* To avail 5$ discount, please sign up 2023 membership before Dec 31st, 2022.
+* For free entry, discounted price on participation & food for all 2023 events, please take 2023 membership.
+* For annual membership, the membership will expire at the end of the calendar year.
