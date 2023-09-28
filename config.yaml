@@ -15,17 +15,16 @@ params:
     - "images/logo.png"
 
   logo: "logo.png"
-
+  bylaws: "pdf/tamilbylaws.pdf"
   favicons:
     themeColor: "#FFFFFF"
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    instagram: "https://instagram.com/tamnjorg?utm_source=qr&igshid=OGU0MmVlOWVjOQ=="
+    facebook: "https://www.facebook.com/profile.php?id=61550886939203&mibextid=ZbWKwL"
+    twitter: "https://twitter.com/TAMNJorg"
 
   location:
     - "155 Polifly Road, Suite 205, Hackensack NJ 07601"
@@ -92,6 +91,10 @@ menus:
     - name: "Blog"
       url: "/blog"
       weight: 5
+
+    - name: "Bylaws"
+      url: "/Bylaws"
+      weight: 6
 
 taxonomies:
   series: "series"

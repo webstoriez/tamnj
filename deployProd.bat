@@ -1,1 +1,1 @@
-hugo -D --destination E:\Hugo\Production\fitnessvibe --baseURL https://fitnessvibe.in/
+hugo -D --destination C:\Work\tamnjorg\deploy --baseURL https://fitnessvibe.in/

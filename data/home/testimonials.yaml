@@ -6,21 +6,21 @@ content:
 
   featured:
     image: "images/logo.png"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+    text: "I have been a member of this community website for over a year now, and I must say it has been a fantastic experience. The sense of belonging and camaraderie I've found here is truly remarkable. I've made new friends, shared valuable insights, and learned so much from the diverse group of people who are part of this community."
+    client: "Naresh Murgan"
 
   list:
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "இது ஒரு அதிசயம்! இதன் மூலம் நான் எங்கள் தமிழ் சமுதாயத்தில் சகோதரர்களை சந்திக்க முடிந்துவிட்டேன். உங்கள் இணைய இணைப்பு அதிசயம் என்னும் கேட்கும்! மேலும் அதிசய சேவை செய்த நமது மொத்த சமூகத்திற்கு நன்றி!"
+      client: "Anonymous Member"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "இந்த வலைத்தளம் எங்கள் தமிழ் மொழியை வளர்க்குகின்றது! அந்தச் சமயத்தில் உங்கள் மொழிப்பேசும் மிகப் பொருத்தமான சகோதரர்களை அடைந்துக்கொண்டோம். உங்கள் இணைய கட்டமைப்பு அதிசயம்!"
+      client: "Anonymous Member"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "What sets this community apart is the genuine support and kindness that members show to one another. It's heartwarming to see how people come together to help solve problems, celebrate achievements, and provide encouragement during tough times."
+      client: "Anonymous Member"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "இந்த வலைத்தளம் எங்கள் தமிழ் மொழியை வளர்க்குகின்றது! நாம் ஒரு பெருமைப்படுத்தப்பட்ட சமூகம் அமைந்துவிட்டது. உங்கள் அதிசய சேவை கொண்டாடுகின்றது!"
+      client: "Anonymous Member"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "இந்த தமிழ் சமுதாய வலைத்தளம் எங்கள் தமிழ் பேசும் அனைத்து வயதினருக்கும் குறித்த வலைத்தளம். இது நம்மை ஒழியும் அனைத்து சகோதரர்களுக்கும் ஒழிய முடியும் இடம்!"
+      client: "Anonymous Member"
