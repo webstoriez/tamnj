@@ -4,8 +4,7 @@ id: "brands"
 content:
   title: "Our Sponsors "
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - "images/sponsor_world.webp" 
+    - "images/sponsor_wealth.png"
+    - "images/sponsor_wealthdna.png"
+    - "images/sponsor_cvgusa.jpg"
