@@ -1,4 +1,4 @@
-baseURL: "https://webstoriez.github.io/tamnj/"
+baseURL: "https://home.tamnj.org/tamnj/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
@@ -55,6 +55,10 @@ menus:
     
     - name: "Sponsors"
       url: "/Sponsored"
+      weight: 4
+
+    - name: "Executive Members"
+      url: "/executivemembers"
       weight: 4
     
 
