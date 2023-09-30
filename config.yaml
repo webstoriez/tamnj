@@ -53,13 +53,10 @@ menus:
       url: "/Events"
       weight: 4
     
-    - name: "Sponsor"
-      url: "/Sponsor"
+    - name: "Sponsors"
+      url: "/Sponsored"
       weight: 4
     
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Become a Member"
@@ -84,12 +81,12 @@ menus:
       url: "/Events"
       weight: 4
     
-    - name: "Sponsor"
-      url: "/Sponsor"
+    - name: "Sponsors"
+      url: "/Sponsored"
       weight: 4
     
-    - name: "Blog"
-      url: "/blog"
+    - name: "Executive Members"
+      url: "/executivemembers"
       weight: 5
 
     - name: "Bylaws"

@@ -1,0 +1,22 @@
+enabled: true
+id: "Sponsors"
+
+content:
+  title: "Sponsors"
+  text: ""
+  cards:
+    - image: "images/sponsors/sponsor_cvgusa.jpg"
+      title: ""
+      text: "Our team is composed of skilled fabricators and artisans, with over a decade of experience. Our vast network allows us to provide both local and national installation services across the country, including select locations in Canada"
+
+    - image: "images/sponsors/sponsor_wealth.png"
+      title: ""
+      text: ""
+
+    - image: "images/sponsors/sponsor_wealthdna.png"
+      title: ""
+      text: ""
+
+    - image: "images/sponsors/sponsor_world.webp"
+      title: ""
+      text: ""

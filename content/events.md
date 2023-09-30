@@ -7,4 +7,4 @@ author = "Hugo Authors"
 +++
 
 
-![Event](/images/flyer1.png "Title")
+![Event USA](../images/hero-image.png "Title")  

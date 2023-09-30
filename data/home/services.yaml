@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Events"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: ""
   cards:
     - image: "images/hero-image.png"
       title: "விஜய் டிவி சூப்பர் சிங்கர் போட்டியாளர்களுடன் இன்னிசை இரவு"
@@ -19,7 +19,7 @@ content:
         label: "Learn more"
         url: "./post/tamil_new_year_2023/"
 
-    - image: "images/IMG-20230927-WA0018.jpg"
+    - image: "images/chitrai2023/IMG-20230927-WA0018.jpg"
       title: "சித்திரை 2023 நிகழ்வு நினைவுகள்"
       text: "சித்திரை 2023 நிகழ்வு நினைவுகள்"
       button:
