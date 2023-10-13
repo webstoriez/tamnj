@@ -2,7 +2,9 @@ enabled: true
 id: "brands"
 
 content:
-  title: "Our Sponsors "
+  title: "Our Sponsors"
+  offer: "Buy tickets worth 100$, get food coupons worth 10$*"
+  offerimage: "images/offer.png" 
   items:
     - "images/sponsors/sponsor_world.webp" 
     - "images/sponsors/sponsor_wealth.png"
