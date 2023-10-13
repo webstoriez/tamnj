@@ -33,6 +33,9 @@ params:
     - "tamnjorg@gmail.com"
     - "+1 (973)-963-7488"
 
+  verify:
+    - "EIN: 93-2821757"
+
   copyright: "© 2023 tamnj.org All Rights Reserved"
 
 menus:

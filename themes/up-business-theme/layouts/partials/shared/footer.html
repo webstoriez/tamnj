@@ -39,6 +39,12 @@
         {{ range .Site.Params.contact }}
           <p class="small text-black-61 mb-1">{{ . }}</p>
         {{ end }}
+
+        <br/>
+        <h5 class="fs-6 fw-semibold text-primary">Verify Status</h5>
+        {{ range .Site.Params.verify }}
+          <a href="https://apps.irs.gov/app/eos/"> <p class="small text-black-61 mb-1">{{ . }}</p> </a>
+        {{ end }}
       </div>
     </div>
     <div class="row">
