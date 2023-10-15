@@ -6,7 +6,7 @@ content:
   text: ""
 
   cards:
-    - image: "images/executivemembers/Edayachandran.webp"
+    - image: "images/executivemembers/Edayachandran.png"
       title: "Edayachandran Jagadeesan"
       text: ""
 
@@ -18,11 +18,11 @@ content:
       title: "Hariharan Easwaran"
       text: ""
 
-    - image: "images/executivemembers/Ganesan.webp"
+    - image: "images/executivemembers/Ganesan.png"
       title: "Ganesan Natarajan"
       text: ""
 
-    - image: "images/executivemembers/Bhuvaneswari.webp"
+    - image: "images/executivemembers/Bhuvaneswari.png"
       title: "Bhuvaneswari Jayachandran"
       text: ""
 
