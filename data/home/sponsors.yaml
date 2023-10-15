@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/sponsors/sponsor_cvgusa.jpg"
       title: ""
-      text: "Our team is composed of skilled fabricators and artisans, with over a decade of experience. Our vast network allows us to provide both local and national installation services across the country, including select locations in Canada"
+      text: ""
 
     - image: "images/sponsors/sponsor_wealth.png"
       title: ""
@@ -22,5 +22,5 @@ content:
       text: ""
 
     - image: "images/sponsors/sponsor_ameriwealth.png"
-      title: "Ameriwealth Financial Group"
-      text: "Financial Planning ,Wealth Management, Insurance Planning , Educational Planning, Investment Planning, Estate Conservation, Employer/Employee Benefits"
+      title: ""
+      text: ""
