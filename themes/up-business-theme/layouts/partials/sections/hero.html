@@ -1,5 +1,20 @@
 <section class="section hero py-5">
   <div class="container">
+    <div class="row" >
+      <div class="col-12  " >
+        <marquee scrollamount="15" direction="left" style="text-align: center;"> 
+          <h3 class="hero-title fw-bold display-4 text-primary pb-4">
+            {{ with .content.offerimage }}       
+              {{ partial "utilities/image-third.html" . }}      
+            {{ end }}   
+            {{.content.offer}}
+            {{ with .content.offerimage }}       
+            {{ partial "utilities/image-third.html" . }}      
+            {{ end }}   
+          </h3>
+        </marquee>
+      </div>
+    </div>
     <div class="row flex-column flex-xl-row-reverse">
       <div class="col-12 col-xl-6  d-flex flex-column justify-content-center hero-image">
         {{ partial "utilities/image-fluid" "images/hero-image.png" }}

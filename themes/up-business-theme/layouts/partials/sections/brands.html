@@ -1,21 +1,5 @@
 <section class="section brands py-5">
   <div class="container">
-    <div class="row" >
-      <div class="col-12  " >
-        <marquee scrollamount="15" direction="up" style="text-align: center;"> 
-          <h3 class="hero-title fw-bold display-4 text-primary pb-4">
-            {{ with .content.offerimage }}       
-              {{ partial "utilities/image-third.html" . }}      
-            {{ end }}   
-            {{.content.offer}}
-            
-          </h3>
-        </marquee>
-      </div>
-    </div>
-    <br/>
-    <br/>
-    <br/>
     <div class="row">
       {{ with .content.title }}
         <div class="col-12">
