@@ -60,7 +60,7 @@ menus:
       url: "/Sponsored"
       weight: 4
 
-    - name: "Executive Members"
+    - name: "Executive Committee"
       url: "/executivemembers"
       weight: 4
     
