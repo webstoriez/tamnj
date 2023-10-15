@@ -66,8 +66,8 @@ menus:
     
 
   buttons:
-    - name: "Become a Member"
-      url: "/Join"
+    - name: "Donations"
+      url: "/post/donations/"
       weight: 5
       pre: "btn btn-primary text-light"
 

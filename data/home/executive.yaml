@@ -2,7 +2,7 @@ enabled: true
 id: "Executive Members"
 
 content:
-  title: "Executive Committee Members"
+  title: "Executive Committee"
   text: ""
 
   cards:
