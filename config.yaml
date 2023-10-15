@@ -2,14 +2,14 @@ baseURL: "https://www.tamnj.org/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "தமிழர்கள் மன்றம் குழுவினர்"
+title: "தமிழர்கள் மன்றம்"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "தமிழர்கள் மன்றம் குழுவினர்"
+  title: "தமிழர்கள் மன்றம்"
   description: "Thamizhargal Mandram NJ - A Non-Profit 501(C)(3) Tax Exempt Organization"
   images: 
     - "images/logo.png"

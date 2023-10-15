@@ -11,4 +11,4 @@ tags = [
 
  
  
-**Mission Statement**: To serve as an organization that will bring forth an interconnectedness among the Tamil community in New Jersey and to ultimately provide for the community of New Jersey as a whole.
+![You can send donations by Zelle](../images/zelle.jpg "Title")  
