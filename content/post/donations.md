@@ -7,8 +7,5 @@ tags = [
     "tamnj", "BYLAWS"
 ]
 +++
-
-
  
- 
-![You can send donations by Zelle](../images/zelle.jpg "Title")  
+Stay tuned for more details... 
