@@ -10,16 +10,13 @@ content:
     buttons: 
       - label: "View Our Sponsors"
         url: "sponsored"
-<!---
-      - label: "Why Sponsor with TAMNJ?"
-        url: "#" --->
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: ""
     title: "Become a Donor"
     text: "Every dollar counts, and your donation, no matter the amount, will directly go towards our philanthropic cause and help us run the organization smoothly. You can choose to make a one time contribution or set up a recurring donation to provide ongoing support. We believe in transparency and accountability, and we will keep you informed about the impact of your support through regular updates"
-<!---
+
     buttons: 
       - label: "Donate Now"
-        url: "#"  --->
+        url: "#"  
 
