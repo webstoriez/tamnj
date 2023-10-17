@@ -9,7 +9,7 @@ content:
 
     buttons: 
       - label: "View Our Sponsors"
-        url: "sponsor"
+        url: "sponsored"
 
       - label: "Why Sponsor with TAMNJ?"
         url: "#"
