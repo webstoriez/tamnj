@@ -5,7 +5,8 @@ content:
   title: "Sponsors"
   text: ""
   cards:
-    - image: "images/sponsors/sponsor_cvgusa.jpg"
+# Platinum Sponsors
+    - image: "images/sponsors/sponsor_avatar.png"
       title: ""
       text: ""
 
@@ -13,14 +14,15 @@ content:
       title: ""
       text: ""
 
-    - image: "images/sponsors/sponsor_wealthdna.png"
+# Gold Sponsors
+    - image: "images/sponsors/sponsor_cvgusa.jpg"
       title: ""
       text: ""
 
-    - image: "images/sponsors/sponsor_world.webp"
+    - image: "images/sponsors/sponsor_world.png"
       title: ""
       text: ""
-
+# Bronze Sponsors
     - image: "images/sponsors/sponsor_ameriwealth.png"
       title: ""
       text: ""
@@ -29,6 +31,6 @@ content:
       title: ""
       text: ""
 
-    - image: "images/sponsors/sponsor_avatar.png"
+    - image: "images/sponsors/leo.png"
       title: ""
       text: ""
