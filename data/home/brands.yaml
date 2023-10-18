@@ -5,11 +5,14 @@ content:
   title: "Our Sponsors"
 
   items:
-    - "images/sponsors/sponsor_world.webp" 
-    - "images/sponsors/sponsor_wealth.png"
-    - "images/sponsors/sponsor_wealthdna.png"
-    - "images/sponsors/sponsor_cvgusa.jpg"
-    - "images/sponsors/sponsor_ameriwealth.png"
-    - "images/sponsors/sponsor_noor.png"
+    # Platinum
     - "images/sponsors/sponsor_avatar.png"
-    
+    #- "images/sponsors/sponsor_wealthdna.png"
+    - "images/sponsors/sponsor_wealth.png"
+    # Gold
+    - "images/sponsors/sponsor_cvgusa.jpg"
+    - "images/sponsors/sponsor_world.png"
+    #Bronze
+    #- "images/sponsors/sponsor_ameriwealth.png"
+    #- "images/sponsors/sponsor_noor.png"
+    #- "images/sponsors/leo.png"
