@@ -13,6 +13,6 @@ content:
     - "images/sponsors/sponsor_cvgusa.jpg"
     - "images/sponsors/sponsor_world.png"
     #Bronze
-    #- "images/sponsors/sponsor_ameriwealth.png"
-    #- "images/sponsors/sponsor_noor.png"
-    #- "images/sponsors/leo.png"
+    - "images/sponsors/sponsor_ameriwealth.png"
+    - "images/sponsors/sponsor_noor.png"
+    - "images/sponsors/leo.png"
