@@ -2,10 +2,10 @@ enabled: true
 id: "Sponsors"
 
 content:
-  title: "Sponsors"
+  title: "Platinum Sponsors"
   text: ""
-  cards:
-# Platinum Sponsors
+  platinum:
+    # Platinum Sponsors
     - image: "images/sponsors/sponsor_avatar.png"
       title: ""
       text: ""
@@ -13,8 +13,8 @@ content:
     - image: "images/sponsors/sponsor_wealth.png"
       title: ""
       text: ""
-
-# Gold Sponsors
+  gold:
+    # Gold Sponsors
     - image: "images/sponsors/sponsor_cvgusa.jpg"
       title: ""
       text: ""
@@ -23,6 +23,7 @@ content:
       title: ""
       text: ""
 # Bronze Sponsors
+  bronze:
     - image: "images/sponsors/sponsor_ameriwealth.png"
       title: ""
       text: ""
