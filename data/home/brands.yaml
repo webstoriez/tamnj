@@ -9,6 +9,7 @@ content:
     - "images/sponsors/sponsor_avatar.png"
     #- "images/sponsors/sponsor_wealthdna.png"
     - "images/sponsors/sponsor_wealth.png"
+    - "images/sponsors/hampton.png"
     # Gold
     - "images/sponsors/sponsor_cvgusa.jpg"
     - "images/sponsors/sponsor_world.png"
@@ -17,3 +18,4 @@ content:
     - "images/sponsors/sponsor_noor.png"
     - "images/sponsors/leo.png"
     - "images/sponsors/sponsor_manjal.png"
+    - "images/sponsors/woodlands_cafe.png"
