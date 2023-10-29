@@ -13,6 +13,10 @@ content:
     - image: "images/sponsors/sponsor_wealth.png"
       title: ""
       text: ""
+
+    - image: "images/sponsors/hampton.png"
+      title: ""
+      text: ""
   gold:
     # Gold Sponsors
     - image: "images/sponsors/sponsor_cvgusa.jpg"
@@ -37,5 +41,9 @@ content:
       text: ""
 
     - image: "images/sponsors/sponsor_manjal.png"
+      title: ""
+      text: ""
+
+    - image: "images/sponsors/woodlands_cafe.png"
       title: ""
       text: ""
