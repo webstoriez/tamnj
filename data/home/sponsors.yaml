@@ -30,6 +30,10 @@ content:
     - image: "images/sponsors/sponsor_manjal.png"
       title: ""
       text: ""
+
+    - image: "images/sponsors/sponsor_garden_dermatology.jpg"
+      title: ""
+      text: ""
 # Bronze Sponsors
   bronze:
     - image: "images/sponsors/sponsor_ameriwealth.png"
