@@ -34,6 +34,10 @@ content:
     - image: "images/sponsors/sponsor_garden_dermatology.jpg"
       title: ""
       text: ""
+      
+    - image: "images/sponsors/turmeric_all.png"
+      title: ""
+      text: ""
 # Bronze Sponsors
   bronze:
     - image: "images/sponsors/sponsor_ameriwealth.png"
