@@ -17,6 +17,10 @@ content:
     - image: "images/sponsors/hampton.png"
       title: ""
       text: ""
+
+    - image: "images/sponsors/sponsor_clarkstech.jpg"
+      title: ""
+      text: ""      
   gold:
     # Gold Sponsors
     - image: "images/sponsors/sponsor_cvgusa.jpg"
