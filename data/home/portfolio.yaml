@@ -2,7 +2,7 @@ enabled: false
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/home_image.png"
     pretitle: ""
     title: "Become a Sponsor"
     text: "Your sponsorship can be instrumental in helping us contribute to several of the initiatives and events and fundraisers that we are working on. Your logo and brand will be prominently displayed, recognizing your commitment to positive change."
@@ -11,7 +11,7 @@ content:
       - label: "View Our Sponsors"
         url: "sponsored"
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/home_image.png"
     pretitle: ""
     title: "Become a Donor"
     text: "Every dollar counts, and your donation, no matter the amount, will directly go towards our philanthropic cause and help us run the organization smoothly. You can choose to make a one time contribution or set up a recurring donation to provide ongoing support. We believe in transparency and accountability, and we will keep you informed about the impact of your support through regular updates"
