@@ -1,60 +1,25 @@
 enabled: true
 id: "Executive Members"
 
-content:
-  title: "Executive Committee"
-  text: ""
-
-  cards:
-    - image: "images/executivemembers/Edayachandran.png"
-      title: "Edayachandran Jagadeesan"
-      text: ""
-
-    - image: "images/executivemembers/padmanabhan.jpg"
-      title: "Padmanabhan Sundaram"
-      text: ""
-
-    - image: "images/executivemembers/Hariharan.jpg"
-      title: "Hariharan Easwaran"
-      text: ""
-
-    - image: "images/executivemembers/Ganesan.png"
-      title: "Ganesan Natarajan"
-      text: ""
-
-    - image: "images/executivemembers/Bhuvaneswari.png"
-      title: "Bhuvaneswari Jayachandran"
-      text: ""
-
-    - image: "images/executivemembers/Charulatha.jpg"
-      title: "Charulatha Ranganathan"
-      text: ""
-
-    - image: "images/executivemembers/Geetha.jpeg"
-      title: "Geetha Krishnamurthy"
-      text: ""
-
-    - image: "images/executivemembers/Subhathra.jpg"
-      title: "Dr. Subhathra Karunanithi"
-      text: ""
-
-
-    - image: "images/executivemembers/Vinodh.jpg"
-      title: "Vinodh Gnanasekaran"
-      text: ""
-
-    - image: "images/executivemembers/Naresh.jpg"
-      title: "Naresh Govindasamy"
-      text: ""
-
-    - image: "images/executivemembers/Ramya.jpg"
-      title: "Ramya Ranganathan"
-      text: ""
-
-    - image: ""
-      title: "Vijaykumar Natarajan"
-      text: ""
-
-    - image: ""
-      title: "Subbalakshmi Murugesan"
-      text: ""
+list: 
+  - title: "Executive Committee Members"
+    cards:
+      - title: "Edayachandran Jagadeesan"
+      - title: "Padmanabhan Sundaram"
+      - title: "Hariharan Easwaran"
+      - title: "Ganesan Natarajan"
+      - title: "Bhuvaneswari Jayachandran"
+      - title: "Charulatha Ranganathan"
+      - title: "Geetha Krishnamurthy"
+      - title: "Dr. Subhathra Karunanithi"
+      - title: "Vinodh Gnanasekaran"
+      - title: "Naresh Govindasamy"
+      - title: "Ramya Ranganathan"
+      
+  
+  - title: "Executive Members"
+    cards:
+      - title: "Vijaykumar Natarajan"
+      - title: "Subbalakshmi Murugesan"
+      - title: "Usha Balamurali"
+      - title: "Amarnath Srinath"
