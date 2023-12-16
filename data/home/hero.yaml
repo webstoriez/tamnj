@@ -2,14 +2,15 @@ enabled: true
 id: "hero"
 
 content:
-  title: "விஜய் டிவி **சூப்பர் சிங்கர்** போட்டியாளர்களுடன் இன்னிசை இரவு"
+  title: "விஜய் டிவி **சூப்பர் சிங்கர்** போட்டியாளர்களுடன் இன்னிசை இரவு - 2023"
   text: ""
   offer: "Buy tickets worth 100$, get food coupons worth 10$*. Limited time offer, buy tickets now."
   offerimage: "images/offer.png" 
+  showoffer: false
   
   buttonPrimary:
-    label: "Buy Tickets Starting $20"
-    url: "https://events.sulekha.com/diwali-innisai-iruvu-tamil-event-thamizharghal-mandram-nj-inc-501c3_event-in_paramus-nj_370717"
+    label: "Our Sponsors"
+    url: "sponsored"
 
   buttonSecondary:
     label: "About Event"
